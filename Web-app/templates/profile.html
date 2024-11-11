@@ -1,0 +1,44 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <p>Today your Activity: {{activity}}, you will win 100 point</p>
+    
+    <table class="table">
+        <tr>
+            <td> Email</td>
+            <td>{{user[2]}}</td>
+        </tr>
+        <tr>
+            <td>Wallet</td>
+            <td>
+                {% if user[4] %}
+                {{ user[4]}}
+                {% else %}
+                <a href="/create_wallet">Create wallet</a>
+                {% endif %}
+            </td>
+        </tr>
+        {% if user[4] %}
+        <tr>
+            <td>Balance</td>
+            <td>{{balance}} </td>
+        </tr>
+        <tr>
+            <td>Payment</td>
+            <td>
+                <form action="/xrp_payment" method="post">
+                    <input type="text" placeholder="token receiver address" name="token_receiver" >
+                    <br>
+                    <br>
+                    <input type="number" placeholder="amount" name="amount" >
+                    <input type="submit" value="send">
+                </form>
+            </td>
+        </tr>
+        {% endif %}
+    </table>
+</div>
+
+{% endblock %}

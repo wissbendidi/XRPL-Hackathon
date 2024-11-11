@@ -1,0 +1,26 @@
+# POST http://localhost:5000/api/wallet
+# Content-Type: application/json
+
+# {
+#     "email": "taiaburbd@gmail.com",
+#   "address": "rhhKRNPKaUKyaRceXVbZ6kgJ2433oyvAn2",
+#   "seed": "sh3Z99SjC1v6cBr2SDBG5hBruyLe9",
+#   "public_key": "02681592ABE9F5A3EB3F0C941F596E41BE73C39A6936E63550E24DDC6F2AB8EC24",
+#   "private_key": "006E486AAABB12912FDAFBB82C7940DA51956D2961ACB319DB5623524AA3178842",
+#   "balance": "250"
+# }
+
+
+
+POST http://localhost:5000/api/wallet
+Content-Type: application/json
+
+{
+    "email": "rahman@gmail.com",
+    "address": "rLCQCgKTGREWGsQMgvhd5AFck3xLasmPdp",
+    "seed": "sn2fQYA8nrAL6kzYJUZXnwc1eG6VE",
+    "public_key": "0355FAF117C14D92953A3B35065ED23AA5373E8455875084634DE8CEC70019813D",
+    "private_key": "00CE5FB4E5D476641CED76852CF3986CBBBA6F7812CAC77CC6AC5448CC1E039D67",
+    "balance": "250"
+}
+

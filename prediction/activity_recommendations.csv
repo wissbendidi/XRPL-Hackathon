@@ -1,0 +1,121 @@
+Date,Location,Temperature (°C),Humidity (%),Wind Speed (km/h),Precipitation (%),Weather Condition,Recommended Activity
+2024-11-09,Paris,20,33,3,70,Rainy,Indoor workout
+2024-11-09,London,30,33,4,70,Sunny,Swimming
+2024-11-09,New York,15,56,5,50,Clear,Cycling
+2024-11-09,Tokyo,26,30,2,50,Clear,Swimming
+2024-11-08,Paris,24,48,25,50,Sunny,Swimming
+2024-11-08,London,13,67,24,0,Rainy,Indoor workout
+2024-11-08,New York,20,53,2,20,Sunny,Cycling
+2024-11-08,Tokyo,30,49,23,70,Rainy,Indoor workout
+2024-11-07,Paris,15,34,14,0,Cloudy,Walking
+2024-11-07,London,23,49,11,20,Cloudy,Walking
+2024-11-07,New York,30,63,22,50,Clear,Swimming
+2024-11-07,Tokyo,16,50,0,50,Clear,Cycling
+2024-11-06,Paris,14,59,2,70,Sunny,Indoor workout
+2024-11-06,London,15,63,5,50,Clear,Cycling
+2024-11-06,New York,28,47,16,0,Clear,Swimming
+2024-11-06,Tokyo,14,79,24,20,Clear,Walking
+2024-11-05,Paris,17,75,0,0,Rainy,Indoor workout
+2024-11-05,London,21,80,14,50,Clear,Swimming
+2024-11-05,New York,20,72,21,20,Sunny,Cycling
+2024-11-05,Tokyo,28,34,18,50,Sunny,Swimming
+2024-11-04,Paris,16,76,10,70,Sunny,Cycling
+2024-11-04,London,21,80,14,70,Cloudy,Walking
+2024-11-04,New York,23,56,25,70,Clear,Swimming
+2024-11-04,Tokyo,23,51,20,20,Rainy,Indoor workout
+2024-11-03,Paris,23,55,7,20,Rainy,Indoor workout
+2024-11-03,London,22,63,0,0,Clear,Swimming
+2024-11-03,New York,13,39,9,50,Sunny,Indoor workout
+2024-11-03,Tokyo,13,61,0,20,Cloudy,Walking
+2024-11-02,Paris,29,52,18,50,Cloudy,Walking
+2024-11-02,London,17,55,21,0,Cloudy,Walking
+2024-11-02,New York,12,30,7,0,Clear,Walking
+2024-11-02,Tokyo,15,66,18,70,Rainy,Indoor workout
+2024-11-01,Paris,24,59,22,20,Rainy,Indoor workout
+2024-11-01,London,11,54,14,70,Clear,Walking
+2024-11-01,New York,26,32,19,50,Cloudy,Walking
+2024-11-01,Tokyo,16,49,20,0,Rainy,Indoor workout
+2024-10-31,Paris,15,75,6,20,Sunny,Cycling
+2024-10-31,London,24,42,24,20,Clear,Swimming
+2024-10-31,New York,11,32,11,70,Clear,Walking
+2024-10-31,Tokyo,27,31,11,50,Cloudy,Walking
+2024-10-30,Paris,30,59,24,0,Sunny,Swimming
+2024-10-30,London,21,35,6,20,Rainy,Indoor workout
+2024-10-30,New York,30,59,25,70,Clear,Swimming
+2024-10-30,Tokyo,30,45,4,50,Clear,Swimming
+2024-10-29,Paris,11,79,20,0,Cloudy,Walking
+2024-10-29,London,14,47,12,20,Rainy,Indoor workout
+2024-10-29,New York,18,78,4,70,Cloudy,Walking
+2024-10-29,Tokyo,23,63,18,70,Cloudy,Walking
+2024-10-28,Paris,28,34,20,20,Clear,Swimming
+2024-10-28,London,27,41,24,20,Rainy,Indoor workout
+2024-10-28,New York,21,65,9,50,Sunny,Swimming
+2024-10-28,Tokyo,22,65,14,0,Rainy,Indoor workout
+2024-10-27,Paris,24,36,5,70,Rainy,Indoor workout
+2024-10-27,London,11,57,9,70,Clear,Walking
+2024-10-27,New York,21,77,2,50,Sunny,Swimming
+2024-10-27,Tokyo,10,41,2,0,Sunny,Indoor workout
+2024-10-26,Paris,19,33,23,50,Cloudy,Walking
+2024-10-26,London,21,34,24,50,Clear,Swimming
+2024-10-26,New York,25,49,4,20,Cloudy,Walking
+2024-10-26,Tokyo,24,57,1,50,Clear,Swimming
+2024-10-25,Paris,18,60,2,20,Cloudy,Walking
+2024-10-25,London,20,30,7,20,Sunny,Cycling
+2024-10-25,New York,15,77,8,70,Cloudy,Walking
+2024-10-25,Tokyo,17,47,18,50,Cloudy,Walking
+2024-10-24,Paris,15,32,16,70,Clear,Cycling
+2024-10-24,London,21,70,19,20,Cloudy,Walking
+2024-10-24,New York,26,73,16,50,Cloudy,Walking
+2024-10-24,Tokyo,27,65,18,50,Clear,Swimming
+2024-10-23,Paris,18,50,17,70,Sunny,Cycling
+2024-10-23,London,11,55,11,0,Clear,Walking
+2024-10-23,New York,19,76,12,50,Sunny,Cycling
+2024-10-23,Tokyo,30,30,18,50,Clear,Swimming
+2024-10-22,Paris,28,51,21,0,Clear,Swimming
+2024-10-22,London,15,47,12,0,Sunny,Cycling
+2024-10-22,New York,13,44,25,70,Cloudy,Walking
+2024-10-22,Tokyo,25,69,7,0,Sunny,Swimming
+2024-10-21,Paris,26,71,21,20,Sunny,Swimming
+2024-10-21,London,22,48,2,50,Cloudy,Walking
+2024-10-21,New York,26,68,15,20,Cloudy,Walking
+2024-10-21,Tokyo,19,71,20,50,Rainy,Indoor workout
+2024-10-20,Paris,30,66,11,20,Rainy,Indoor workout
+2024-10-20,London,26,56,9,20,Clear,Swimming
+2024-10-20,New York,15,67,0,0,Rainy,Indoor workout
+2024-10-20,Tokyo,21,30,18,70,Sunny,Swimming
+2024-10-19,Paris,29,57,16,20,Cloudy,Walking
+2024-10-19,London,29,55,14,70,Sunny,Swimming
+2024-10-19,New York,27,79,12,50,Sunny,Swimming
+2024-10-19,Tokyo,29,62,0,70,Cloudy,Walking
+2024-10-18,Paris,25,56,18,20,Sunny,Swimming
+2024-10-18,London,25,37,9,70,Clear,Swimming
+2024-10-18,New York,14,70,18,0,Sunny,Indoor workout
+2024-10-18,Tokyo,26,61,5,20,Cloudy,Walking
+2024-10-17,Paris,19,65,12,0,Clear,Cycling
+2024-10-17,London,23,39,6,20,Sunny,Swimming
+2024-10-17,New York,16,49,25,70,Sunny,Cycling
+2024-10-17,Tokyo,21,36,0,50,Sunny,Swimming
+2024-10-16,Paris,29,67,6,50,Rainy,Indoor workout
+2024-10-16,London,25,37,11,0,Cloudy,Walking
+2024-10-16,New York,16,37,17,70,Cloudy,Walking
+2024-10-16,Tokyo,27,31,23,70,Clear,Swimming
+2024-10-15,Paris,23,62,22,0,Sunny,Swimming
+2024-10-15,London,30,33,13,50,Rainy,Indoor workout
+2024-10-15,New York,29,78,9,70,Rainy,Indoor workout
+2024-10-15,Tokyo,26,43,21,70,Cloudy,Walking
+2024-10-14,Paris,19,42,0,70,Cloudy,Walking
+2024-10-14,London,15,43,7,20,Sunny,Cycling
+2024-10-14,New York,27,39,21,20,Rainy,Indoor workout
+2024-10-14,Tokyo,19,30,15,20,Clear,Cycling
+2024-10-13,Paris,15,72,12,20,Sunny,Cycling
+2024-10-13,London,22,42,13,50,Rainy,Indoor workout
+2024-10-13,New York,14,59,25,20,Rainy,Indoor workout
+2024-10-13,Tokyo,27,41,1,70,Cloudy,Walking
+2024-10-12,Paris,27,56,17,0,Cloudy,Walking
+2024-10-12,London,25,49,9,70,Sunny,Swimming
+2024-10-12,New York,27,31,3,0,Clear,Swimming
+2024-10-12,Tokyo,12,58,24,50,Cloudy,Walking
+2024-10-11,Paris,23,44,0,50,Cloudy,Walking
+2024-10-11,London,18,68,22,0,Sunny,Cycling
+2024-10-11,New York,11,74,20,50,Sunny,Indoor workout
+2024-10-11,Tokyo,12,62,21,50,Sunny,Indoor workout
